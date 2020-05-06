@@ -8,7 +8,7 @@
 ## Install <a name="install"></a>
 There only necessary libraries used to run the code are present in the Anaconda distribution of Python. The code should run fine with no issues using Python versions 3.*.
 
-## Project Motivation] <a name="Proj"></a>
+## Project Motivation<a name="Proj"></a>
 The is an Udacity project for data science in which i am suppose to write a blog based on my analysis from a chosen dataset.
 For this blog i chose Stack Overflow annual dataset for the year 2018.
 From the vaste dataset i was keen to learn:
