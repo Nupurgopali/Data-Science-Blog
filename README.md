@@ -15,10 +15,10 @@ There only necessary libraries used to run the code are present in the Anaconda 
 </p>
 <p>"From the vaste dataset i was keen to learn:"</p>
 <ol>
-  <li>1. What is the most loved programming language in United States?</li>
-  <li>2.What is the most common databse on which the programmers of United States work?</li>
-<li>3.What is the relationship between the most widely used language in United States and the Salary for that langanguage?</li>
-  <li>4.The female ratio of programmers in United States.(w.r.t employement)</li>
+  <li>What is the most loved programming language in United States?</li>
+  <li>What is the most common databse on which the programmers of United States work?</li>
+  <li>What is the relationship between the most widely used language in United States and the Salary for that langanguage?</li>
+  <li>The female ratio of programmers in United States.(w.r.t employement)</li>
 </ol>
 
 ## File Description<a name="Filedescrip"></a>
