@@ -23,8 +23,8 @@ There only necessary libraries used to run the code are present in the Anaconda 
 
 ## File Description<a name="Filedescrip"></a>
 <p>
- Data.csv contains data  Stack Overflow annual dataset for the year 2018.</p>
-There is also a python file attached that contains the code which helped me answer the above mentioned questions.
+ data.csv contains data  Stack Overflow annual dataset for the year 2018.</p>
+There is also a Blog_code.ipynb python file  attached that contains the code which helped me answer the above mentioned questions.
 </p>
 
 ## Result <a name="Res"></a>
