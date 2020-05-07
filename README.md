@@ -13,22 +13,22 @@ There only necessary libraries used to run the code are present in the Anaconda 
   The is an Udacity project for data science in which i am suppose to write a blog based on my analysis from a chosen dataset.</p>
 <p>For this blog i chose Stack Overflow annual dataset for the year 2018.
 </p>
-<p>"From the vaste dataset i was keen to learn:"</p>
+<p>From the vaste dataset i was keen to learn:</p>
 <ol>
-  <li>What is the most loved programming language in United States?</li>
-  <li>What is the most common databse on which the programmers of United States work?</li>
-  <li>What is the relationship between the most widely used language in United States and the Salary for that langanguage?</li>
-  <li>The female ratio of programmers in United States.(w.r.t employement)</li>
+  <li>What is the most loved programming language in the United States?</li>
+  <li>What is the most common databse on which the programmers of the United States work?</li>
+  <li>What is the relationship between the most widely used language in the  United States and the salary for that langauage?</li>
+  <li>The female ratio of programmers in the United States.(w.r.t employement)</li>
 </ol>
 
 ## File Description<a name="Filedescrip"></a>
 <p>
- data.csv contains data  Stack Overflow annual dataset for the year 2018.</p>
+ data.csv contains the Stack Overflow annual dataset for the year 2018.</p>
 There is also a Blog_code.ipynb python file  attached that contains the code which helped me answer the above mentioned questions.
 </p>
 
 ## Result <a name="Res"></a>
-The results and conclusion can be found here:
+The results and conclusion can be found <a href="https://medium.com/@nurrygopali/abcs-about-the-developers-of-united-states-860cca916729">here</a>
 
 
 ## Liscensing,Authorization and Acknowledgements <a name="Laa"></a>
