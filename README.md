@@ -28,7 +28,7 @@ There is also a Blog_code.ipynb python file  attached that contains the code whi
 </p>
 
 ## Result <a name="Res"></a>
-The results and conclusion can be found <a href="https://medium.com/@nurrygopali/abcs-about-the-developers-of-united-states-860cca916729">here</a>
+The results and conclusion can be found <a href="https://medium.com/@nurrygopali/abcs-about-the-developers-of-united-states-860cca916729">here</a>.
 
 
 ## Liscensing,Authorization and Acknowledgements <a name="Laa"></a>
